@@ -3,7 +3,7 @@
 
 I’m a software engineering student and self-taught developer who enjoys building meaningful digital tools. I'm currently focused on building SaaS products, intuitive UIs, and backend systems.
 
-- 🛠️ I’m currently working on **[EurekaIP](https://t.me/EurekaIPBot)**
+- 🛠️ I’m currently working on <a href="https://t.me/eureka_ip_bot" target="_blank"><strong>EurekaIP</strong></a>
 - 🌱 I’m currently learning **React, TailwindCSS, Next.js, TypeScript.**
 - 📫 Reach me! Feel free to **connect** or reach out! I'm always open to **feedback**, **collaborations**, or **just talking**.
 - 🎯 2025 Goals:

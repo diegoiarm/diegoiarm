@@ -7,8 +7,8 @@ i’m a software engineering student and self-taught developer who enjoys buildi
 - 🌱 i’m currently learning **React, TailwindCSS, Next.js, TypeScript.**
 - 📫 reach me! feel free to **connect** or reach out! i'm always open to **feedback**, **collaborations**, or **just talking**.
 - 🎯 2026 goals:
-  - launch 1 SaaS product
-  - explore mobile development
+  ✅ launch 1 SaaS product
+  ✅ explore mobile development
   - contribute to open source
 
 ## skills 🛠️
